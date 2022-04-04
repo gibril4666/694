@@ -1,0 +1,301 @@
+,Grouping,CommodityCategory,SizeOfSpend,MultiAgency,BusinessProcessImpact,TechChange,PublicSafety,MarketRisk,Sensitivity,Leveragability,BuyerInitials,Score,LevelCalc,Division,CategoryID
+0,Public Safety,Access Control Systems,3,5,4,5,3,1,3,5,SR4,32,4,COMM,1
+1,Financial Services,Accounting,5,5,1,1,1,1,3,5,DPS,25,3,PROF,2
+2,Financial Services,Actuarial Services,4,3,3,1,1,3,3,5,JW3,26,3,PROF,3
+3,Communication,Advertising & Marketing,5,5,2,3,1,3,5,5,MO2,34,4,PROF,4
+4,Logistics,Aerial Services,3,2,2,1,3,1,1,0,,14,1,PROF,5
+5,Agriculture,Aerial Spraying,1,3,1,1,1,1,1,0,,10,1,PROF,6
+6,Transportation,Aerial Supplies & Aircraft,4,2,1,1,3,1,1,0,,14,1,COMM,7
+7,Agriculture,Agricultural Services,1,1,1,1,1,1,1,0,,8,1,COMM,8
+8,Agriculture,Agriculture Supplies,2,3,1,1,1,1,1,0,,11,1,COMM,9
+9,Health,Alcohol & Drug Rehab,3,1,2,1,3,1,3,0,BS5,17,2,PROF,10
+10,Health,Alcohol & Drug Testing,4,5,3,3,5,1,3,5,BS5,32,4,PROF,11
+11,Agriculture,Animal & Veterinary Services,1,2,1,1,1,1,1,0,,9,1,COMM,12
+12,Agriculture,Animals & Wildlife Supplies,2,3,1,1,1,1,1,2,,13,1,COMM,13
+13,Office Supplies,Appliances,1,3,1,1,1,1,1,0,,10,1,COMM,14
+14,Financial Services,Appraisal Services,2,2,1,1,1,1,1,2,,12,1,PROF,15
+15,Construction,Architect & Engineer Services,5,5,3,1,5,5,1,0,,26,3,,16
+16,Financial Services,Armored Car Services,2,2,4,1,3,5,3,5,SDC,28,3,COMM,17
+17,Other Commodities,Arts & Crafts Items,1,2,1,1,1,1,1,0,,9,1,COMM,18
+18,Health,Assistive Devices,1,3,1,3,1,1,1,0,,12,1,COMM,19
+19,Motor Vehicles,"ATVs, Snowmobiles & Carts",3,3,2,1,3,1,1,5,,20,2,COMM,20
+20,Financial Services,Auction Services,2,3,1,1,1,1,1,5,DPS,16,2,PROF,21
+21,Other Commodities,Audio-Visual Supplies,3,4,1,3,1,1,1,0,,15,2,COMM,22
+22,Financial Services,Banking Services,5,5,5,5,1,3,5,5,MK6,39,5,PROF,23
+23,Other Commodities,Banners & Flags,1,4,1,1,1,1,1,0,,11,1,COMM,24
+24,Other Commodities,Barber & Beautician Supplies,1,2,1,1,1,1,1,0,,9,1,COMM,25
+25,Construction,Barriers & Enclosures,2,3,2,1,3,1,1,5,,19,2,COMM,26
+26,Financial Services,Billing Services,4,4,3,1,1,1,3,5,DPS,25,3,PROF,27
+27,MRO,Boilers & Water Heaters,2,3,2,1,1,1,1,0,,12,1,COMM,28
+28,Financial Services,Bond Services,4,2,3,1,1,1,1,0,,14,1,PROF,29
+29,Publications,Books & Other Publications,4,5,1,1,1,1,1,0,,15,2,COMM,30
+30,Construction,"Bricks, Tile & Stone",1,2,2,1,1,1,1,5,,15,2,COMM,31
+31,Transportation,Bridges & Tunnels,1,2,2,1,3,1,1,0,,12,1,,32
+32,Building Services,"Building Services, Other",5,5,3,1,3,1,1,0,,20,2,COMM,33
+33,Other Commodities,Bulk Chemicals,2,3,1,1,1,1,1,0,,11,1,COMM,34
+34,Business Services,Business Plan Development,1,2,1,1,1,1,5,5,BS5,22,2,PROF,35
+35,Telecom,Cable & Satellite,3,4,1,5,1,5,1,5,MDB,26,3,IT,36
+36,Telecom,Call Centers & Answering,3,3,3,3,1,1,5,5,MDB,29,3,IT,37
+37,Transportation,Carcass Removal Services,1,2,1,1,1,1,1,0,,9,1,,38
+38,Financial Services,Claims Processing,3,3,2,1,1,1,1,5,DPS,18,2,PROF,39
+39,Communication,Classified Ads,1,4,1,1,1,1,1,0,MO2,11,1,PROF,40
+40,Office Supplies,Clocks & Timekeeping Devices,1,2,1,1,1,1,1,0,,9,1,COMM,41
+41,Clothing,Clothing & Accessories,4,4,2,1,1,1,3,5,VAH,24,2,COMM,42
+42,Financial Services,Collections Services,5,1,3,5,1,1,5,5,MK6,31,4,PROF,43
+43,Communication,"Communications, Other",5,5,2,1,1,1,1,0,MO2,17,2,PROF,44
+44,Construction,Concrete & Metal,3,3,2,1,1,1,1,5,,18,2,COMM,45
+45,Construction,Construction,5,4,2,1,3,1,1,5,,23,2,,46
+46,Construction,Construction Equipment,4,3,2,1,3,1,1,0,YMD,16,2,COMM,47
+47,Construction,"Construction Materials, Other",2,3,2,1,1,1,1,5,,17,2,COMM,48
+48,Consulting,"Consulting, Energy",2,3,3,3,1,1,5,5,YMD,28,3,COMM,49
+49,Consulting,"Consulting, Financial",5,3,2,3,1,3,3,5,JY1,28,3,PROF,50
+50,Consulting,"Consulting, Health Related",3,3,1,3,1,1,1,5,JY1,19,2,PROF,51
+51,Consulting,"Consulting, Human Services",2,3,2,1,1,1,1,5,JY1,17,2,PROF,52
+52,Consulting,"Consulting, Insurance",1,2,3,3,0,3,1,5,JY1,19,2,PROF,53
+53,Consulting,"Consulting, IT",3,3,3,5,1,1,3,5,,27,3,,54
+54,Consulting,"Consulting, Other",5,5,1,1,1,1,3,5,JY1,25,3,PROF,55
+55,Consulting,"Consulting, Retirement",2,3,3,3,1,1,1,5,JY1,20,2,PROF,56
+56,Public Safety,Correctional Services,5,2,3,1,5,1,3,0,,23,2,,57
+57,Professional Services,Court Reporting,2,3,2,3,1,1,3,5,RTM,23,2,PROF,58
+58,Financial Services,Credit Reporting,1,2,2,1,1,1,3,5,,19,2,PROF,59
+59,Business Services,Data Collection & Reporting,3,3,2,3,1,1,1,5,JW3,20,2,PROF,60
+60,Business Services,Data Entry Services,2,3,3,3,1,1,1,5,JW3,20,2,PROF,61
+61,IT Services,Data Storage Services,5,5,5,5,1,3,3,5,DH5,35,4,IT,62
+62,Government,Decals & Official Stamps,1,3,1,1,1,1,1,0,SDC,10,1,COMM,63
+63,Other Commodities,Decorative Items,1,3,1,1,1,1,1,0,,10,1,COMM,64
+64,Health,Dental Services,1,2,3,1,1,1,1,0,,11,1,PROF,65
+65,Staffing,Dental Staff Augmentation,1,2,3,1,1,1,3,0,,15,2,PROF,66
+66,Health,Dental Supplies,2,2,2,1,1,1,1,5,,16,2,COMM,67
+67,Government,Drivers License & ID Cards,3,1,3,3,3,1,3,0,SDC,20,2,COMM,69
+68,Education,Educational Services,3,5,2,1,1,1,3,0,BS5,19,2,PROF,70
+69,Education,Educational Supplies,3,3,2,1,1,1,1,5,,18,2,COMM,71
+70,Education,Educational Testing,5,2,3,5,1,3,5,5,BS5,34,4,PROF,72
+71,Government,Elections Equipment,5,5,5,3,1,1,5,5,SDC,35,4,COMM,73
+72,Building Services,Electrical Services,1,3,2,1,3,1,1,0,,13,1,COMM,74
+73,MRO,Electrical Supplies,2,4,2,1,1,3,3,5,SR4,24,2,COMM,75
+74,MRO,Elevator Equipment,1,1,2,1,3,1,1,0,,11,1,COMM,76
+75,Public Safety,Emergency Mgmt Services,2,3,3,1,3,1,3,5,SDC,24,2,COMM,78
+76,Government,Employment Assistance,1,1,1,1,1,1,1,0,,8,1,PROF,79
+77,Construction,Engineering Supplies,2,3,2,3,1,1,1,0,VCM,14,1,COMM,80
+78,Environmental,Environmental Audits,2,2,2,1,1,3,1,5,DPS,18,2,PROF,81
+79,Environmental,Environmental Equipment,1,2,2,3,3,1,1,0,,14,1,COMM,82
+80,Environmental,Environmental Services,3,3,2,3,3,1,1,0,DPS,17,2,PROF,83
+81,Agriculture,"Equipment Maint, Agriculture",1,2,1,1,1,1,1,0,,9,1,COMM,84
+82,Construction,"Equipment Maint, Construction",1,4,2,1,1,1,1,5,,17,2,COMM,85
+83,Other Commodities,"Equipment Maint, Other",3,5,1,1,1,1,1,0,YMD,14,1,COMM,86
+84,Public Safety,"Equipment Maint, Public Safety",3,2,2,1,5,1,1,0,,16,2,COMM,87
+85,Transportation,"Equipment Maint, Road",2,3,1,1,3,1,1,0,,13,1,,88
+86,Other Commodities,"Equipment Rental, Other",3,5,1,1,1,1,1,0,,14,1,COMM,89
+87,Professional Services,Event Planning,2,2,1,1,1,1,1,0,,10,1,PROF,90
+88,Health,Eye Glasses,2,3,2,1,1,1,1,5,CE1,17,2,PROF,91
+89,Transportation,Fare Collection Supplies,1,2,1,1,1,1,1,0,,9,1,,92
+90,Financial Services,Financial Advisor Services,5,2,3,3,1,3,3,5,MK6,28,3,PROF,93
+91,Financial Services,Financial Audits,4,3,2,3,1,3,5,5,JW3,31,4,PROF,94
+92,Financial Services,"Financial Services, Other",2,4,3,3,1,1,5,5,dpS,29,3,PROF,95
+93,Public Safety,Fingerprinting Services,3,3,3,5,3,5,3,5,CE1,33,4,PROF,96
+94,Public Safety,Fire & Prevention Services,3,4,2,1,5,1,1,0,,18,2,COMM,97
+95,Public Safety,Fire Protection Supplies,3,3,2,1,5,1,1,0,,17,2,COMM,98
+96,Public Safety,Firearms & Ammo,3,2,3,3,5,3,5,5,SDC,34,4,COMM,99
+97,MRO,First Aid & Safety Supplies,2,3,2,1,1,3,1,5,SR4,19,2,COMM,100
+98,Parks and Natural Resources,Fishing & Game Services,1,2,2,1,1,1,1,0,,10,1,,101
+99,Furnishings,Flooring & Floor Coverings,3,4,2,1,1,1,1,5,JN1,19,2,COMM,103
+100,Food,Food,4,4,3,1,3,1,1,5,SR4,23,2,COMM,104
+101,Food,Food Services,5,2,4,3,3,5,5,5,MO2,37,5,PROF,105
+102,Parks and Natural Resources,Forestry Services,2,1,2,1,1,1,1,0,,10,1,,106
+103,Parks and Natural Resources,Forestry Supplies,1,2,2,1,1,1,1,0,,10,1,COMM,107
+104,Fuel,"Fuel, Other",2,3,1,1,1,1,1,5,SR4,16,2,COMM,108
+105,Other Commodities,Funeral & Cemetery Services,1,2,1,1,1,1,1,0,,9,1,COMM,110
+106,Other Commodities,Funeral & Cemetery Supplies,1,1,1,1,1,1,1,0,,8,1,COMM,111
+107,Furnishings,"Furniture, Chairs",3,5,3,1,1,5,3,5,JN1,29,3,COMM,113
+108,Furnishings,"Furniture, Office",3,5,2,1,1,3,5,5,JN1,30,4,COMM,114
+109,Furnishings,"Furniture, Other",3,5,2,1,1,1,1,5,,20,2,COMM,115
+110,Furnishings,"Furniture, Storage",2,3,2,1,1,1,1,5,JN1,17,2,COMM,116
+111,Building Services,"Equipment Maint, Generator",1,2,2,1,3,1,1,5,YMD,17,2,COMM,117
+112,Construction,Glass,1,3,2,1,1,1,1,5,,16,2,COMM,118
+113,IT Hardware,"Hardware, Computers & Mobile",5,5,5,5,1,3,3,5,DH5,35,4,IT,119
+114,IT Hardware,"Hardware, Maint",4,5,2,5,1,3,1,5,DH5,27,3,IT,120
+115,IT Hardware,"Hardware, Output Devices",3,5,3,5,1,1,3,5,DH5,29,3,IT,121
+116,IT Hardware,"Hardware, Servers & Network",4,5,3,5,1,1,3,5,,30,4,,122
+117,Health,Health Administration Services,5,2,4,5,3,3,5,5,BS5,37,5,PROF,123
+118,Health,Health Audits,3,3,3,3,3,3,3,5,CE1,29,3,PROF,124
+119,Public Safety,Homeland Security Equipment,3,2,3,3,5,1,1,5,,24,2,COMM,126
+120,Human Services,Human Services,5,5,3,1,5,1,3,0,,26,3,,127
+121,Building Services,HVAC Services,3,4,2,1,1,1,1,0,,14,1,COMM,128
+122,MRO,HVAC Supplies,2,3,2,1,1,3,1,5,SR4,19,2,COMM,129
+123,Other Commodities,Industrial Equipment,1,3,1,1,1,1,1,0,,10,1,COMM,130
+124,Other Services,Industrial Services,4,3,1,1,1,1,1,0,,13,1,COMM,131
+125,Professional Services,Inspection Services,3,3,2,1,1,1,1,0,RTM,13,1,PROF,132
+126,Insurance,Insurance & Risk Management,3,5,2,1,1,1,1,5,CE1,20,2,PROF,133
+127,Insurance,"Insurance, Motor Vehicle",3,5,2,1,1,1,1,5,CE1,20,2,PROF,134
+128,,"Insurance, Worker's Comp",0,0,0,0,0,0,0,0,,0,1,,135
+129,Telecom,Internet Service Providers,5,4,4,5,3,1,3,5,MDB,33,4,IT,136
+130,IT Services,"IT Services, Other",3,5,1,5,1,1,3,0,JAB,22,2,IT,137
+131,Staffing,IT Staff Augmentation,5,3,5,3,1,3,3,5,TM1,31,4,IT,138
+132,IT Services,IT Technical Writing,3,5,1,3,1,1,3,5,,25,3,IT,139
+133,Building Services,Janitorial Services,4,5,2,1,1,1,3,5,JN1,25,3,COMM,140
+134,MRO,Janitorial Supplies,4,4,2,1,1,3,1,5,SR4,22,2,COMM,141
+135,Food,Kitchen Supplies,2,4,2,1,1,1,1,0,SR4,13,1,COMM,142
+136,Laboratory,Lab Equipment & Supplies,4,4,4,5,5,3,3,0,SR4,31,4,COMM,143
+137,Laboratory,Lab Equipment Maintenance,2,4,1,5,1,1,3,0,SR4,20,2,COMM,144
+138,Laboratory,Lab Services,3,3,2,5,3,1,1,5,JY1,24,2,PROF,145
+139,MRO,Landscaping Supplies,3,4,1,1,1,1,1,5,YMD,18,2,COMM,146
+140,Other Services,Laundry Services,3,3,2,1,1,1,1,0,VAH,13,1,COMM,147
+141,Other Commodities,Laundry Supplies,3,3,2,1,1,1,1,0,,13,1,COMM,148
+142,Public Safety,Law Enforcement Equipment,3,4,3,1,5,1,3,5,SDC,28,3,COMM,149
+143,Public Safety,Law Enforcement Services,4,2,3,1,3,1,3,0,,20,2,COMM,150
+144,Building Services,Lawn Care & Snow Removal,4,4,2,1,3,1,1,5,SR4,22,2,COMM,151
+145,Financial Services,Lease Financing,4,4,2,1,1,1,1,5,DG1,20,2,PROF,152
+146,Professional Services,Legal Services,4,5,1,1,1,1,3,3,,22,2,,153
+147,Consulting,Legal Writer Services,0,1,1,3,1,1,5,0,DG1,17,2,PROF,154
+148,Public Safety,Less-Lethal Weapons,2,2,3,5,5,3,3,5,SDC,31,4,COMM,155
+149,Government,Library Supplies,1,2,1,1,1,1,1,0,,9,1,COMM,156
+150,Government,License Plates & Supplies,3,1,5,3,3,1,5,0,,26,3,COMM,157
+151,MRO,Lighting,3,3,2,1,1,3,1,5,SR4,20,2,COMM,158
+152,Furnishings,Linens & Window Treatments,3,3,1,1,1,1,1,0,,12,1,COMM,159
+153,Non-Procurement Buys,Liquor Commission,5,1,3,1,1,1,1,0,,14,1,,160
+154,Financial Services,Loan Administration,5,1,4,5,1,3,5,5,MO2,34,4,PROF,161
+155,Telecom,Local & Long Distance,4,5,3,1,3,1,5,5,MDB,32,4,IT,162
+156,Government,Lottery & Gaming Supplies,3,1,3,5,1,3,5,0,,26,3,COMM,163
+157,Construction,Lumber,2,3,2,1,1,1,1,5,,17,2,COMM,164
+158,Business Services,Management Services,1,1,1,1,1,1,5,0,DG1,16,2,PROF,165
+159,Other Commodities,Manufacturing Supplies,1,1,1,1,1,1,1,0,VAH,8,1,COMM,166
+160,Parks and Natural Resources,Marine Services,3,3,1,1,1,1,1,0,,12,1,PROF,167
+161,Parks and Natural Resources,Marine Vehicles & Supplies,3,3,1,1,1,1,1,0,,12,1,COMM,168
+162,Transportation,Mass Transit Equipment,1,2,1,1,1,1,3,0,,13,1,,169
+163,MRO,Materials Handling Supplies,1,2,2,1,1,3,1,5,SR4,17,2,COMM,170
+164,Health,Medical Services,5,5,3,3,5,1,3,0,,28,3,PROF,172
+165,Staffing,Medical Staff Augmentation,4,2,3,1,3,1,3,0,SW2,20,2,PROF,173
+166,Health,Medical Supplies,5,4,3,3,5,1,3,5,SDC,32,4,COMM,174
+167,Health,Medical Transport,4,3,3,3,5,1,3,5,JY1,30,4,PROF,175
+168,Non-Procurement Buys,Memberships & Associations,2,5,2,1,1,1,1,0,,14,1,,176
+169,Records,Microfiche/Film Services,1,1,1,1,1,1,1,0,,8,1,COMM,177
+170,Records,Microfiche/Film Supplies,1,2,1,1,1,1,1,0,,9,1,COMM,178
+171,Motor Vehicles,"Motor Vehicle, Maint",2,3,2,1,3,1,1,0,,14,1,COMM,180
+172,Motor Vehicles,"Motor Vehicle, Supplies",4,3,2,1,3,1,1,5,YMD,21,2,COMM,181
+173,Motor Vehicles,"Motor Vehicle, Tires",2,2,2,1,3,1,1,5,YMD,18,2,COMM,182
+174,Motor Vehicles,"Motor Vehicles, Buses",5,3,2,1,3,3,3,5,YMD,28,3,COMM,183
+175,Motor Vehicles,"Motor Vehicles, General",5,4,3,3,3,3,1,5,YMD,28,3,COMM,184
+176,Motor Vehicles,"Motor Vehicles, Heavy Trucks",1,2,2,1,3,1,1,5,YMD,17,2,COMM,185
+177,Motor Vehicles,"Motor Vehicles, Rental",3,5,2,1,1,3,1,5,YMD,22,2,COMM,186
+178,Motor Vehicles,"Motor Vehicles, School Buses",1,2,1,1,1,1,1,5,YMD,14,1,COMM,187
+179,Motor Vehicles,"Motor Vehicles, Trailers",1,2,1,1,1,1,1,0,YMD,9,1,COMM,188
+180,Logistics,Moving Services,2,4,2,1,1,1,1,5,YMD,18,2,COMM,189
+181,Utilities,Natural Gas,5,5,4,3,3,5,3,5,YMD,36,5,COMM,190
+182,Non-Procurement Buys,Other Payments,1,1,1,1,1,1,1,0,,8,1,,191
+183,Office Supplies,Office Supplies,4,5,3,1,1,1,3,5,VAH,26,3,COMM,192
+184,Logistics,Package Delivery,3,5,3,3,3,3,3,5,JY1,31,4,PROF,193
+185,MRO,"Paints, Stains, & Supplies",2,3,2,1,1,3,1,5,SR4,19,2,COMM,194
+186,Office Supplies,Paper,3,5,3,1,1,3,3,5,VAH,27,3,COMM,195
+187,Parks and Natural Resources,Parks & Playground Services,1,3,1,1,1,1,1,0,,10,1,COMM,196
+188,Financial Services,Payment Cards,4,2,3,3,1,1,3,5,JN1,25,3,PROF,198
+189,Health,Personal Hygiene Supplies,1,2,3,1,1,1,0,5,,14,1,COMM,199
+190,Building Services,Pest Control,2,4,1,1,1,1,1,5,SR4,17,2,COMM,200
+191,Agriculture,Pesticides & Chemicals,3,2,1,1,1,1,1,5,,16,2,COMM,201
+192,Health,Pharmaceutical Services,5,1,1,1,5,1,3,5,DPS,25,3,PROF,202
+193,Health,Pharmaceuticals,3,3,4,5,5,3,3,5,DPS,34,4,PROF,203
+194,Professional Services,Photographic Services,1,2,1,1,1,1,1,0,,9,1,PROF,204
+195,Other Commodities,Photography Supplies,1,3,4,1,1,1,1,0,,13,1,COMM,205
+196,Construction,Plastics,1,4,2,1,1,1,1,5,,17,2,COMM,206
+197,Building Services,Plumbing Services,2,3,2,1,3,1,1,0,,14,1,COMM,207
+198,MRO,Plumbing Supplies,2,3,2,1,1,3,1,5,SR4,19,2,COMM,208
+199,Public Safety,Polygraph Testing,2,3,2,3,3,3,3,5,RTM,27,3,PROF,209
+200,Other Commodities,Portable Toilets,1,2,1,1,1,1,1,0,,9,1,COMM,210
+201,Logistics,Postage & Mailing Equipment,5,5,4,1,1,5,1,5,JN1,28,3,COMM,211
+202,Utilities,Power Plant Equipment,2,3,1,1,3,1,1,0,,13,1,COMM,212
+203,Construction,Prefabricated Structures,4,3,1,1,1,1,1,0,,13,1,COMM,213
+204,Printing,Print Shop Supplies,1,3,2,1,1,1,1,5,VAH,16,2,COMM,214
+205,Printing,Printing Services,5,5,4,3,1,1,1,0,VAH,21,2,COMM,215
+206,Public Safety,Prison Commissary,4,1,3,5,3,5,3,0,CE1,27,3,PROF,216
+207,Public Safety,Prison Equipment,1,1,3,1,5,1,1,0,,14,1,COMM,217
+208,Logistics,Prisoner Transport,2,2,2,1,3,3,5,5,RTM,28,3,PROF,218
+209,Business Services,Project Management,4,5,3,3,1,1,3,5,TM1,28,3,,219
+210,Other Commodities,Promotional Items & Awards,1,3,1,1,1,1,1,0,,10,1,COMM,220
+211,Building Services,Property Management,2,2,1,1,1,1,1,0,,10,1,PROF,221
+212,Health,Public Health Services,4,3,2,1,5,1,5,0,,26,3,,222
+213,Telecom,Radio Communications Equipment,4,5,3,1,5,1,5,5,MDB,34,4,IT,223
+214,Non-Procurement Buys,Real Estate Leasing,5,5,3,1,1,1,1,5,,23,2,,224
+215,Non-Procurement Buys,Real Estate Purchases,4,2,1,1,1,1,1,0,,12,1,,225
+216,Records,Records Management,2,2,3,1,4,3,1,5,CE1,22,2,PROF,226
+217,Parks and Natural Resources,Recreation Equipment,3,3,1,1,1,1,1,0,,12,1,COMM,227
+218,Staffing,Recruitment Services,4,4,2,1,1,1,1,0,,15,2,PROF,228
+219,Utilities,Renewable Energy Equipment,1,2,1,5,1,1,1,5,YMD,18,2,COMM,230
+220,Transportation,Road Construction & Maint,5,4,3,1,3,5,3,0,,27,3,,231
+221,Transportation,Road Construction Materials,3,3,1,5,1,1,3,5,LCH,25,3,COMM,232
+222,Transportation,Road Salt & De-Icing,5,3,4,1,5,3,3,5,LCH,32,4,COMM,233
+223,Construction,Roofing,1,3,2,1,1,1,1,5,,16,2,COMM,234
+224,Professional Services,Scientific Services,2,3,2,3,1,1,1,0,,14,1,PROF,235
+225,Public Safety,Security Guards,4,3,3,1,3,3,3,5,LCH,28,3,COMM,236
+226,Other Services,"Services, Other",3,5,2,1,1,1,3,0,,19,2,PROF,237
+227,Other Commodities,Sewing & Textile Supplies,3,3,1,1,1,1,1,0,VAH,12,1,COMM,238
+228,Transportation,Signs & Supplies,2,2,3,1,3,1,3,0,VAH,18,2,COMM,239
+229,IT Systems and Software,"Systems, Assessments",1,3,2,5,1,1,3,5,JAB,24,2,IT,241
+230,IT Systems and Software,"Systems, Asset & Inventory",3,5,3,5,1,1,5,5,MN1,33,4,IT,242
+231,IT Systems and Software,"Systems, Benefits",5,3,4,5,3,1,5,5,SB4,36,5,IT,243
+232,IT Systems and Software,"Systems, Content & Doc Mgmt",4,5,2,5,1,1,3,5,JAB,29,3,IT,244
+233,IT Systems and Software,"Systems, Criminal Justice",4,3,3,5,5,1,5,0,JT2,31,4,IT,245
+234,IT Systems and Software,"Systems, Development Tools",3,5,2,5,1,1,5,5,JAB,32,4,IT,246
+235,IT Systems and Software,"Systems, Drivers License",4,2,3,5,3,1,3,5,MN1,29,3,IT,247
+236,IT Systems and Software,"Systems, Election",3,1,2,5,1,3,5,5,MN1,30,4,IT,248
+237,IT Systems and Software,"Systems, Environmental",3,1,3,5,3,1,5,0,JAB,26,3,IT,249
+238,IT Systems and Software,"Systems, Financial",5,5,5,5,1,5,5,5,JAB,41,5,IT,250
+239,IT Systems and Software,"Systems, Fraud Detection",4,3,3,5,1,1,3,5,SB4,28,3,IT,251
+240,IT Systems and Software,"Systems, General Software",5,5,4,5,1,1,3,5,JAB,32,4,IT,252
+241,IT Systems and Software,"Systems, Geographic",2,3,2,5,3,1,3,5,JAB,27,3,IT,253
+242,IT Systems and Software,"Systems, Health",5,3,3,5,3,1,5,0,SB4,30,4,IT,254
+243,IT Systems and Software,"Systems, HR & Learning Mgmt",3,5,4,5,1,1,3,5,JAB,30,4,IT,255
+244,IT Systems and Software,"Systems, Lab",3,3,3,5,3,1,5,0,SB4,28,3,IT,256
+245,IT Systems and Software,"Systems, Legal Case Mgmt",3,2,3,5,1,1,3,5,MN1,26,3,IT,257
+246,IT Systems and Software,"Systems, Licensing",5,3,3,5,3,1,3,5,MN1,31,4,IT,258
+247,IT Systems and Software,"Systems, Middleware",2,5,3,5,1,1,3,5,JT2,28,3,IT,259
+248,IT Systems and Software,"Systems, Network & Enterprise",5,5,5,5,1,1,3,5,JAB,33,4,IT,260
+249,IT Systems and Software,"Systems, Open Source",2,5,3,5,1,1,3,5,,28,3,IT,261
+250,IT Systems and Software,"Systems, Other",2,5,3,5,1,1,3,5,,28,3,IT,262
+251,IT Systems and Software,"Systems, Printing & Mailing",1,5,2,5,1,1,3,5,MN1,26,3,IT,263
+252,IT Systems and Software,"Systems, Project Mgmt",3,5,2,5,1,1,3,5,JAB,28,3,IT,264
+253,IT Systems and Software,"Systems, Security",4,4,3,5,1,1,3,5,MDB,29,3,IT,265
+254,IT Systems and Software,"Systems, Telecom",5,5,3,5,1,1,3,5,MDB,31,4,IT,266
+255,IT Systems and Software,"Systems, Transportation",3,1,4,5,3,1,5,0,JT2,27,3,IT,267
+256,Construction,Tanks,1,2,2,1,1,1,1,5,,15,2,COMM,268
+257,Telecom,"Telecom Equipment, Other",1,2,3,3,3,3,3,5,MDB,26,3,IT,270
+258,Telecom,"Telecom Services, Other",3,2,3,3,3,3,3,5,MDB,28,3,IT,271
+259,Telecom,Telephones & Equipment,4,5,3,3,5,1,3,5,MDB,32,4,IT,272
+260,Staffing,Temporary Employees,4,5,3,3,3,3,3,5,JW3,32,4,PROF,273
+261,MRO,Tools & Hardware,4,3,4,3,1,3,3,5,SR4,29,3,COMM,275
+262,Transportation,Traffic Control Equipment,3,3,2,1,3,1,1,5,,20,2,,276
+263,Business Services,Training & Development,3,5,3,5,3,1,1,5,JW3,27,3,PROF,277
+264,Professional Services,Transcription,2,3,3,1,1,1,1,5,RTM,18,2,PROF,278
+265,Public Safety,Transitional Housing,4,1,2,1,5,5,5,0,,28,3,PROF,279
+266,Professional Services,Translation & Interpretation,3,4,3,1,3,3,1,5,RTM,24,2,PROF,280
+267,Logistics,Travel Services,3,4,2,1,1,1,1,5,JY1,19,2,PROF,281
+268,Utilities,Utility Services,5,4,4,1,1,1,1,0,YMD,18,2,COMM,282
+269,Food,Vending Machines,1,1,1,1,1,1,1,0,VAH,8,1,COMM,283
+270,Publications,Video Rental & Recorded Media,1,3,1,1,1,1,1,0,,10,1,PROF,284
+271,Waste Removal Services,"Waste Removal, Hazardous",3,4,3,1,5,3,3,5,LCH,30,4,COMM,285
+272,Waste Removal Services,"Waste Removal, IT",1,1,1,3,1,1,3,5,,19,2,COMM,286
+273,Waste Removal Services,"Waste Removal, Medical",1,4,3,1,5,3,3,5,,28,3,COMM,287
+274,Waste Removal Services,"Waste Removal, Rubbish",4,4,3,1,3,3,3,5,LCH,29,3,COMM,288
+275,Waste Removal Services,"Waste Removal, Sewage",2,3,2,1,3,1,1,0,,14,1,COMM,289
+276,MRO,Water Softener Salt,2,5,1,1,1,1,1,5,LCH,18,2,COMM,291
+277,Other Commodities,Weights & Measures Equipment,1,2,1,1,1,1,1,0,,9,1,COMM,292
+278,MRO,Welding Supplies,1,2,2,1,1,3,1,5,,17,2,COMM,293
+279,Telecom,Wireless Services,4,5,3,5,3,1,3,5,MDB,32,4,IT,294
+280,Motor Vehicles,Fleet Management Services,5,4,3,3,3,3,1,5,YMD,28,3,COMM,295
+281,Telecom,"Equipment Maint, Telecom",2,5,3,3,1,1,3,5,MDB,26,3,IT,296
+282,Health,Medical Laboratory Services,1,3,1,3,1,1,1,5,,17,2,PROF,297
+283,Building Services,Elevator Maintenance,2,3,3,3,3,3,3,3,YMD,26,3,COMM,298
+284,Insurance,"Insurance, Health",5,5,3,3,3,3,5,5,MO2,37,5,PROF,299
+285,Publications,"Subscription, Electronic",5,5,3,5,1,5,3,5,NJK,35,4,PROF,300
+286,Motor Vehicles,"Motor Vehicle, Accessories",2,2,2,1,1,1,1,5,YMD,16,2,COMM,301
+287,Waste Removal Services,"Waste Removal, Documents",1,1,2,3,1,1,1,5,,16,2,COMM,302
+288,Insurance,"Insurance, Title",2,3,1,1,1,1,1,5,,16,2,PROF,303
+289,Furnishings,"Furniture, Installation",1,2,2,1,1,1,1,5,,15,2,COMM,304
+290,Other Commodities,Water Treatment & Equipment,2,4,1,1,3,1,1,0,MAS,14,1,COMM,305
+291,Fuel,"Fuel, Gasoline & Diesel",4,4,4,1,3,1,1,5,SR4,24,2,COMM,306
+292,Waste Removal Services,"Waste Removal, Recycling",1,4,2,3,1,3,5,5,SR4,29,3,COMM,307
+293,Financial Services,Remote Cash/Deposit Capture,2,2,2,1,3,1,1,5,SDC,18,2,COMM,309
+294,Consulting,"Consulting, Business Process",4,5,1,1,1,1,5,5,JY1,28,3,PROF,310
+295,Financial Services,Tax Services,3,2,5,5,1,3,5,5,,34,4,PROF,311
+296,Financial Services,Real Estate Services,2,3,1,1,1,3,3,5,,22,2,,312
+297,Building Services,"Equipment Maint, Generator",1,2,2,1,3,1,1,5,YMD,17,2,COMM,313
+298,Utilities,"Equipment Maint, Power",2,3,1,1,3,1,1,0,,13,1,COMM,314
+299,Public Safety,Public Safety Equipment,1,2,2,1,5,1,1,0,,14,1,COMM,315
