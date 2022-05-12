@@ -1,4 +1,12 @@
-unsupervised learning (data + code)
+
+unsupervised-new
+update0512
+1.match supervised-learning, keep variables same;
+2.create 4 un-supervised functions for project's doc.
+
+
+
+unsupervised-learning !!!!not important!!!
 
 0409update:
     improve:
